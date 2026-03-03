@@ -1,0 +1,23 @@
+[
+    {
+        "ten": "Tập thể dục",
+        "mo_ta": "Tập thể dục mỗi ngày",
+        "uu_tien": 5,
+        "hoan_thanh": true,
+        "ngay_tao": "2026-03-02 22:26"
+    },
+    {
+        "ten": "Tennis",
+        "mo_ta": "Luyện tennis",
+        "uu_tien": 4,
+        "hoan_thanh": false,
+        "ngay_tao": "2026-03-02 22:26"
+    },
+    {
+        "ten": "Thiền",
+        "mo_ta": "Tập thiền",
+        "uu_tien": 3,
+        "hoan_thanh": true,
+        "ngay_tao": "2026-03-02 22:27"
+    }
+]

@@ -1,12 +1,5 @@
 [
     {
-        "ten": "Tập thể dục",
-        "mo_ta": "Sáng 6h30, Chiều 6h30",
-        "uu_tien": 5,
-        "hoan_thanh": true,
-        "ngay_tao": "2026-02-25 23:51"
-    },
-    {
         "ten": "Tập yoga",
         "mo_ta": "VIP Yoga",
         "uu_tien": 5,
@@ -17,13 +10,6 @@
         "ten": "Học Python",
         "mo_ta": "Python",
         "uu_tien": 4,
-        "hoan_thanh": false,
-        "ngay_tao": "2026-02-25 23:52"
-    },
-    {
-        "ten": "Ngủ trưa",
-        "mo_ta": "Ngủ",
-        "uu_tien": 3,
         "hoan_thanh": false,
         "ngay_tao": "2026-02-25 23:52"
     }
